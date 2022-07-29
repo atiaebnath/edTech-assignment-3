@@ -1,0 +1,32 @@
+.carousel-caption {
+    height: 30px;
+    margin-bottom: 250px;
+
+}
+
+.carousel-img {
+    filter: brightness(50%);
+}
+
+.carousel-caption h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.course-heading {
+    text-align: center;
+    padding: 40px;
+}
+
+.button {
+    text-align: center;
+}
+
+.info-bonus {
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.info-bonus h1 {
+    font-weight: 700;
+}
